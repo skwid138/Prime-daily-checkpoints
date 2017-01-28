@@ -71,7 +71,7 @@ Micros
 4.
 
 ## Week 6
-No weekend assessment, but solos coming up.
+No weekend assessment (Solo Scoping is weekend assignment), but solos coming up.
 
 * Keeping all angular controllers synced to a factory
 * Using authentication
