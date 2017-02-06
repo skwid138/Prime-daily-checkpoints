@@ -1,4 +1,4 @@
-# Function Checkpoint
+# Loops and Two Dimensional Arrays Checkpoint
 
 Create a function that takes in an array of arrays. Add up all of the numbers in all of the arrays and return the value.
 
