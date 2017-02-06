@@ -1,4 +1,4 @@
-# Function Checkpoint
+# Array Checkpoint
 
 Create a function that takes in an array. Add up first and fourth values in the array.
 
