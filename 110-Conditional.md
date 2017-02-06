@@ -1,4 +1,4 @@
-# Array and Loop Checkpoint
+# Conditional Checkpoint
 Create a function that takes two numbers.
 
 If the first number is bigger than the second number, return `"The first number was bigger!"`.
