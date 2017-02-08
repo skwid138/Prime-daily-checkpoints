@@ -1,4 +1,4 @@
-# Loops, Arrays, and Concatonation Checkpoint
+# Loops, Arrays, and Concatenation Checkpoint
 Create a function that takes two parameters. The first parameter is an array, the second parameter will be a number.
 
 Your function should return a string that combines all of the values starting at the index of the number passed in through the end of the array.
