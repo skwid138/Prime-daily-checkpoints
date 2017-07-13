@@ -11,7 +11,7 @@ Your function should return the total years of experience for all of the employe
 console.log(yourFunction([
     { name: "Tony", yearsOfExperience: 10 }, 
     { name: "Carla", yearsOfExperience: 4 }
-    ]));
+]));
 ```
 
 should log 
@@ -27,7 +27,7 @@ console.log(yourFunction([
     { name: "Tony", yearsOfExperience: 10 }, 
     { name: "Carla", yearsOfExperience: 4 },
     { name: "Kris", yearsOfExperience: 14 }
-    ]));
+]));
 ```
 
 should log
